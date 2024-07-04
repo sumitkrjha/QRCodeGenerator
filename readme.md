@@ -20,7 +20,7 @@ QR Code Generator simplifies the process of generating QR codes, providing a use
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/yourusername/qr-code-generator.git`
+1. Clone the repository: `git clone https://github.com/yourusername/QRCodeGenerator.git`
 2. Open `index.html` in your browser.
 3. Customize the QR code size using the options provided.
 4. Save or use the generated QR code as needed.
